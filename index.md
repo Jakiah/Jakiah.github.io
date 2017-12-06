@@ -1,8 +1,8 @@
 ### 360
 
-this is my 360 project 
-
 <src="//360.vizor.io/scripts/embed.js" data-vizorurl="https://360.vizor.io/embed/v/lkona" ></script>
+
+This is my 360 project 
 
 ***
 
